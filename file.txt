@@ -1,0 +1,9 @@
+All xmen team members
+Most Powerful
+Smartest
+Most Interesting Power
+Your Favorite
+User Input for why they chose their Favorite
+Create a folder for images
+2-3 Trivia about each character
+class and id's to set up stylesheet
